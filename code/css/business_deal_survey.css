@@ -1,0 +1,16 @@
+#business_deal_survey .wrapper { width: 1024px; height: 768px; position: absolute; }
+#business_deal_survey .wrapper .survey { position: absolute; width: 1024px; height: 768px; background: url(../../content/img/business_deal_survey/bg1.png); }
+#business_deal_survey .wrapper .survey .surveybg { position: absolute; width: 1024px; height: 768px; background: url(../../content/img/business_deal_survey/gatherBlank.png) 144px 145px no-repeat; }
+#business_deal_survey .wrapper .survey .percent { position: absolute; left: 315px; top: 264px; }
+#business_deal_survey .wrapper .survey .item { position: absolute; left: 397px; top: 378px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(3) { position: absolute; left: 445px; top: 378px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(4) { position: absolute; left: 493px; top: 378px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(5) { position: absolute; left: 541px; top: 378px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(6) { position: absolute; left: 589px; top: 378px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(7) { position: absolute; left: 397px; top: 471px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(8) { position: absolute; left: 445px; top: 471px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(9) { position: absolute; left: 493px; top: 471px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(10) { position: absolute; left: 541px; top: 471px; }
+#business_deal_survey .wrapper .survey .item:nth-of-type(11) { position: absolute; left: 589px; top: 471px; }
+#business_deal_survey .wrapper .survey .percenttxt { position: absolute; left: 727px; top: 383px; width: 112px; height: 50px; line-height: 50px; vertical-align: middle; padding-left: 8px; text-align: center; color: #FFFFFF; font-size: 28px; font-weight: bold; background: url(../../content/img/business_deal_survey/percent.png) no-repeat; }
+#business_deal_survey .wrapper .survey .surveytext { position: absolute; left: 197px; top: 181px; width: 645px; height: 52px; line-height: 52px; vertical-align: middle; text-align: left; color: #000; font-size: 24px; font-weight: bold; }

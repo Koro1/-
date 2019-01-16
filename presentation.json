@@ -1,0 +1,1313 @@
+﻿{
+	"storyboard":["play"],
+	"slides":{
+		"home":{
+			"name":"封面",
+			"file":"home.html",
+			"id": "coverpage",
+			"slideIndex":"1",
+			"monitoring": {
+				"chapter": "拜科奇学术故事",
+				"chapterid": "Kogenate"					
+			}
+		},
+		"references_references":{
+			"name":"参考文献",
+			"file":"references_references.html",
+			"id": "references",
+			"slideIndex":"1",
+			"monitoring": {
+				"chapter": "参考文献",
+				"chapterid": "Reference"					
+			}
+		},
+		"predefined":{
+			"name":"导航",
+			"file":"predefined.html",
+			"id": "predefine",
+			"slideIndex":"1",
+			"monitoring": {
+				"chapter": "导航",
+				"chapterid": "Predefined"					
+			}
+		},
+		"da_popup":{
+			"name":"da_popup",
+			"file":"da_popup.html",
+			"monitoring": {
+				"subchapter": "da_popup"
+			}
+		},
+		"scenario_popup":{
+			"name":"scenario_popup",
+			"file":"scenario_popup.html",
+			"monitoring": {
+				"subchapter": "scenario_popup"
+			}
+		},
+		"doctor_survey" : {
+			"name" : "您对基于iPad的电子版推广资料的评价如何？",
+			"file" : "doctor_survey.html",
+			"id": "doctor_feedback_1",
+			"slideIndex":"1",
+			"monitoring": {
+				"chapter": "医生反馈",
+				"chapterid": "Doctor feedback"					
+			}
+		},
+		"doctor_detailer_helpfull" : {
+			"name" : "您觉得这套电子版推广资料，每部分的内容对您而言分别有多大帮助？",
+			"file" : "doctor_detailer_helpfull.html",
+			"id": "doctor_feedback_2",
+			"slideIndex":"2",
+			"monitoring": {
+				"chapter": "医生反馈",
+				"chapterid": "Doctor feedback"					
+			}
+		},
+		"start_index":{
+			"name":"多媒体创建主页",
+			"file":"start_index.html",
+			"monitoring": {
+				"chapter": "拜科奇工具箱",
+				"subchapter": "Builder Tool"
+			}
+		},
+		"builder":{
+			"name":"创建新的多媒体报告",
+			"file":"builder.html",
+			"monitoring": {
+				"chapter": "拜科奇工具箱",
+				"subchapter": "Builder Tool"
+			}
+		},
+		"showplaylist":{
+			"name":"我的多媒体资料",
+			"file":"showplaylist.html",
+			"monitoring": {
+				"chapter": "拜科奇工具箱",
+				"subchapter": "Builder Tool"
+			}
+		},
+		"shopping_cart":{
+			"name":"资源列表 ",
+			"file":"shopping_cart.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "拜科奇工具箱",
+				"subchapter": "Resources"
+			}
+		},
+		"start_tools":{
+			"name":"",
+			"file":"tools/start_tools.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "工具",
+				"subchapter": "Tools"
+			}
+		},
+		"starters_home":{
+			"name":"主页",
+			"valid":true,
+			"file":"starters_home.html",
+			"id": "home",
+			"slideIndex":"1",
+			"monitoring": {
+				"chapter": "主页",
+				"chapterid": "Home"					
+			}
+		},
+		
+		"storytree1":{
+			"name":"自由选择信心拜访 p1",
+			"valid":true,
+			"file":"storytree1.html",
+			"id": "storytree1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"The freedom to choose the confidence to visit p1",
+				"chapter": "自由选择信心拜访",
+				"chapterid": "The freedom to choose the confidence to visit"					
+			}
+		},
+		"storytree2":{
+			"name":"自由选择信心拜访 p2",
+			"valid":true,
+			"file":"storytree2.html",
+			"id": "storytree2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"The freedom to choose the confidence to visit p2",
+				"chapter": "自由选择信心拜访",
+				"chapterid": "The freedom to choose the confidence to visit"					
+			}
+		},
+		"storytree3":{
+			"name":"自由选择信心拜访 p3",
+			"valid":true,
+			"file":"storytree3.html",
+			"id": "storytree3",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"The freedom to choose the confidence to visit p3",
+				"chapter": "自由选择信心拜访",
+				"chapterid": "The freedom to choose the confidence to visit"					
+			}
+		},
+
+		"cost_comparison":{
+			"name":"患者年度治疗自费费用",
+			"id": "Medical Expense in Inpatients without medical insurance per year",
+			"file":"tools/cost_comparison.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "工具",
+				"chapterid": "tools"					
+			}
+		},
+		"self_pay_cost":{
+			"name":"按需治疗与预防治疗费用对比",
+			"id": "a comparison on cost of  episodic therapy and prophylaxis",
+			"file":"tools/self_pay_cost.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "工具",
+				"chapterid": "tools"					
+			}
+		},
+		"asqare_game":{
+			"name":"拜科奇趣味连连看",
+			"id": "asqare game",
+			"file":"tools/asqare_game.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "工具",
+				"chapterid": "tools"					
+			}
+		},
+		"short_video":{
+			"name":"过亿短片",
+			"id": "short video",
+			"file":"tools/short_video.html",
+			"valid":true,
+			"monitoring": {
+				"chapter": "工具",
+				"chapterid": "tools"					
+			}
+		},
+         "story5_home" : {
+			"name" : "故事5 p3",
+			"file" : "story5_home.html",
+			"id": "story5_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p3",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+         "story5_home1" : {
+			"name" : "故事5 p1",
+			"file" : "story5_home1.html",
+			"id": "story5_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p1",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story5_opt1_1" : {
+			"name" : "故事5 p4",
+			"file" : "story5_opt1_1.html",
+			"id": "story5_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p4",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story5_opt1_2" : {
+			"name" : "故事5 p5",
+			"file" : "story5_opt1_2.html",
+			"id": "story5_opt1_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p5",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story5_opt1_3" : {
+			"name" : "故事5 p6",
+			"file" : "story5_opt1_3.html",
+			"id": "story5_opt1_3",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p6",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story5_opt2_1" : {
+			"name" : "故事5 p7",
+			"file" : "story5_opt2_1.html",
+			"id": "story5_opt2_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p7",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story5_opt2_2" : {
+			"name" : "故事5 p8",
+			"file" : "story5_opt2_2.html",
+			"id": "story5_opt2_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story5 p8",
+				"chapter": "故事5",
+				"chapterid": "story5"					
+			}
+		},
+        "story6_home" : {
+			"name" : "故事6 p2",
+			"file" : "story6_home.html",
+			"id": "story6_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p2",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+         "story6_home1" : {
+			"name" : "故事6 p1",
+			"file" : "story6_home1.html",
+			"id": "story6_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p1",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+         "story6_opt1_1" : {
+			"name" : "故事6 p3",
+			"file" : "story6_opt1_1.html",
+			"id": "story6_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p3",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+        "story6_opt1_2" : {
+			"name" : "故事6 p4",
+			"file" : "story6_opt1_2.html",
+			"id": "story6_opt1_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p4",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+         "story6_opt1_3" : {
+			"name" : "故事6 p5",
+			"file" : "story6_opt1_3.html",
+			"id": "story6_opt1_3",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p5",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+        "story6_opt2_1" : {
+			"name" : "故事6 p6",
+			"file" : "story6_opt2_1.html",
+			"id": "story6_opt2_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p6",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+         "story7_opt1_1" : {
+			"name" : "故事7 p4",
+			"file" : "story7_opt1_1.html",
+			"id": "story7_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story7 p4",
+				"chapter": "故事7",
+				"chapterid": "story7"					
+			}
+		},
+        "story6_opt3_1" : {
+			"name" : "故事6 p7",
+			"file" : "story6_opt3_1.html",
+			"id": "story6_opt3_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p7",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+        "story6_opt3_2" : {
+			"name" : "故事6 p8",
+			"file" : "story6_opt3_2.html",
+			"id": "story6_opt3_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story6 p8",
+				"chapter": "故事6",
+				"chapterid": "story6"					
+			}
+		},
+         "story7_home" : {
+			"name" : "故事7 p3",
+			"file" : "story7_home.html",
+			"id": "story7_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story7 p3",
+				"chapter": "故事7",
+				"chapterid": "story7"					
+			}
+		},
+         "story7_home1" : {
+			"name" : "故事7 p1",
+			"file" : "story7_home1.html",
+			"id": "story7_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story7 p1",
+				"chapter": "故事7",
+				"chapterid": "story7"					
+			}
+		},
+     
+         "story8_home" : {
+			"name" : "故事8 p3",
+			"file" : "story8_home.html",
+			"id": "story8_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p3",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+         "story8_home1" : {
+			"name" : "故事8 p1",
+			"file" : "story8_home1.html",
+			"id": "story8_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p1",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+         "story8_opt1_1" : {
+			"name" : "故事8 p4",
+			"file" : "story8_opt1_1.html",
+			"id": "story8_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p4",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+        "story8_opt1_2" : {
+			"name" : "故事8 p5",
+			"file" : "story8_opt1_2.html",
+			"id": "story8_opt1_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p5",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+          "story8_opt2_1" : {
+			"name" : "故事8 p6",
+			"file" : "story8_opt2_1.html",
+			"id": "story8_opt2_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p6",
+				"chapter": "故事8 p6",
+				"chapterid": "story8"					
+			}
+		},
+          "story8_opt2_2" : {
+			"name" : "故事8 p7",
+			"file" : "story8_opt2_2.html",
+			"id": "story8_opt2_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p7",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+          "story8_opt2_3" : {
+			"name" : "故事8 p8",
+			"file" : "story8_opt2_3.html",
+			"id": "story8_opt2_3",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p8",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+           "story8_opt2_4" : {
+			"name" : "故事8 p9",
+			"file" : "story8_opt2_4.html",
+			"id": "story8_opt2_4",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p9",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+            "story8_opt2_5" : {
+			"name" : "故事8 p10",
+			"file" : "story8_opt2_5.html",
+			"id": "story8_opt2_5",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p10",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+         "story8_opt2_6" : {
+			"name" : "故事8 p11",
+			"file" : "story8_opt2_6.html",
+			"id": "story8_opt2_6",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p11",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+            "story8_opt3_1" : {
+			"name" : "故事8 p12",
+			"file" : "story8_opt3_1.html",
+			"id": "story8_opt3_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story8 p12",
+				"chapter": "故事8",
+				"chapterid": "story8"					
+			}
+		},
+       
+		"step1" : {
+			"name" : "探寻需求 定制拜访 p1",
+			"file" : "step1.html",
+			"id": "step1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"Search for demand custom visit p1",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+         "story9_home" : {
+			"name" : "故事9 p3",
+			"file" : "story9_home.html",
+			"id": "story9_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p3",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+         "story9_home1" : {
+			"name" : "故事9 p1",
+			"file" : "story9_home1.html",
+			"id": "story9_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p1",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+          "story9_opt1_1" : {
+			"name" : "故事9 p4",
+			"file" : "story9_opt1_1.html",
+			"id": "story9_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p4",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+        "story10_home" : {
+			"name" : "故事10 p3",
+			"file" : "story10_home.html",
+			"id": "story10_home",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story10 p3",
+				"chapter": "故事10",
+				"chapterid": "story10"					
+			}
+		},
+         "story10_home1" : {
+			"name" : "故事10 p1",
+			"file" : "story10_home1.html",
+			"id": "story10_home1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story10 p1",
+				"chapter": "故事10",
+				"chapterid": "story10"					
+			}
+		},
+          "story10_opt1_1" : {
+			"name" : "故事10 p4",
+			"file" : "story10_opt1_1.html",
+			"id": "story10_opt1_1",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story10 p4",
+				"chapter": "故事10",
+				"chapterid": "story10"					
+			}
+		},
+          "story9_opt1_2" : {
+			"name" : "故事9 p5",
+			"file" : "story9_opt1_2.html",
+			"id": "story9_opt1_2",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p5",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+          "story9_opt1_3" : {
+			"name" : "故事9 p6",
+			"file" : "story9_opt1_3.html",
+			"id": "story9_opt1_3",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p6",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+           "story9_opt1_4" : {
+			"name" : "故事9 p7",
+			"file" : "story9_opt1_4.html",
+			"id": "story9_opt1_4",
+			"slideIndex":"1",
+			"monitoring": {
+			    "id":"story9 p7",
+				"chapter": "故事9",
+				"chapterid": "story9"					
+			}
+		},
+		"step2" : {
+			"name" : "探寻需求 定制拜访 p2",
+			"file" : "step2.html",
+			"id": "step2",
+			"slideIndex":"2",
+			"monitoring": {
+				"id": "Search for demand custom visit p2",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step3" : {
+			"name" : "探寻需求 定制拜访 p3",
+			"file" : "step3.html",
+			"id": "step3",
+			"slideIndex":"3",
+			"monitoring": {
+				"id": "Search for demand custom visit p3",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step4" : {
+			"name" : "探寻需求 定制拜访 p4",
+			"file" : "step4.html",
+			"id": "step4",
+			"slideIndex":"4",
+			"monitoring": {
+				"id": "Search for demand custom visit p4",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step5" : {
+			"name" : "探寻需求 定制拜访 p5",
+			"file" : "step5.html",
+			"id": "step5",
+			"slideIndex":"5",
+			"monitoring": {
+				"id": "Search for demand custom visit p5",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step6" : {
+			"name" : "探寻需求 定制拜访 p6",
+			"file" : "step6.html",
+			"id": "step6",
+			"slideIndex":"6",
+			"monitoring": {
+				"id": "Search for demand custom visit p6",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step7" : {
+			"name" : "探寻需求 定制拜访 p7",
+			"file" : "step7.html",
+			"id": "step7",
+			"slideIndex":"7",
+			"monitoring": {
+				"id": "Search for demand custom visit p7",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step8" : {
+			"name" : "探寻需求 定制拜访 p8",
+			"file" : "step8.html",
+			"id": "step8",
+			"slideIndex":"8",
+			"monitoring": {
+				"id": "Search for demand custom visit p8",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step9" : {
+			"name" : "探寻需求 定制拜访 p9",
+			"file" : "step9.html",
+			"id": "step9",
+			"slideIndex":"9",
+			"monitoring": {
+				"id": "Search for demand custom visit p9",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+		"step10" : {
+			"name" : "探寻需求 定制拜访 p10",
+			"file" : "step10.html",
+			"id": "step10",
+			"slideIndex":"10",
+			"monitoring": {
+				"id": "Search for demand custom visit p10",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+	   "step11" : {
+			"name" : "探寻需求 定制拜访 p11",
+			"file" : "step11.html",
+			"id": "step11",
+			"slideIndex":"11",
+			"monitoring": {
+				"id": "Search for demand custom visit p11",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+	   "step12" : {
+			"name" : "探寻需求 定制拜访 p12",
+			"file" : "step12.html",
+			"id": "step12",
+			"slideIndex":"12",
+			"monitoring": {
+				"id": "Search for demand custom visit p12",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+	   "step13" : {
+			"name" : "探寻需求 定制拜访 p13",
+			"file" : "step13.html",
+			"id": "step13",
+			"slideIndex":"13",
+			"monitoring": {
+				"id": "Search for demand custom visit p13",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+	   "step14" : {
+			"name" : "探寻需求 定制拜访 p14",
+			"file" : "step14.html",
+			"id": "step14",
+			"slideIndex":"14",
+			"monitoring": {
+				"id": "Search for demand custom visit p14",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "step15" : {
+			"name" : "探寻需求 定制拜访 p15",
+			"file" : "step15.html",
+			"id": "step15",
+			"slideIndex":"15",
+			"monitoring": {
+				"id": "Search for demand custom visit p15",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "step16" : {
+			"name" : "探寻需求 定制拜访 p16",
+			"file" : "step16.html",
+			"id": "step16",
+			"slideIndex":"16",
+			"monitoring": {
+				"id": "Search for demand custom visit p16",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "step17" : {
+			"name" : "探寻需求 定制拜访 p17",
+			"file" : "step17.html",
+			"id": "step17",
+			"slideIndex":"17",
+			"monitoring": {
+				"id": "Search for demand custom visit p17",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "step18" : {
+			"name" : "探寻需求 定制拜访 p18",
+			"file" : "step18.html",
+			"id": "step18",
+			"slideIndex":"18",
+			"monitoring": {
+				"id": "Search for demand custom visit p18",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "step19" : {
+			"name" : "探寻需求 定制拜访 p19",
+			"file" : "step19.html",
+			"id": "step19",
+			"slideIndex":"19",
+			"monitoring": {
+				"id": "Search for demand custom visit p19",
+				"chapter": "探寻需求 定制拜访",
+				"chapterid": "Search for demand custom visit"					
+			}
+		},
+      "story1_1" : {
+			"name" : "故事1 p1",
+			"file" : "story1_1.html",
+			"id": "story1_1",
+			"slideIndex":"20",
+			"monitoring": {
+			    "id":"story1 p1",
+				"chapter": "故事1",
+				"chapterid": "story1"					
+			}
+		},
+		"story1_2" : {
+			"name" : "故事1 p2",
+			"file" : "story1_2.html",
+			"id": "story1_2",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story1 p2",
+				"chapter": "故事1",
+				"chapterid": "story1"					
+			}
+		},
+	   "story1_3" : {
+			"name" : "故事1 p3",
+			"file" : "story1_3.html",
+			"id": "story1_3",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story1 p3",
+				"chapter": "故事1",
+				"chapterid": "story1"					
+			}
+		},
+	   "story1_4" : {
+			"name" : "故事1 p4",
+			"file" : "story1_4.html",
+			"id": "story1_4",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story1 p4",
+				"chapter": "故事1",
+				"chapterid": "story1"					
+			}
+		},
+	   "story2_1" : {
+			"name" : "故事2 p1",
+			"file" : "story2_1.html",
+			"id": "story2_1",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story2 p1",
+				"chapter": "故事2",
+				"chapterid": "story2"					
+			}
+		},
+	   "story2_2" : {
+			"name" : "故事2 p2",
+			"file" : "story2_2.html",
+			"id": "story2_2",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story2 p2",
+				"chapter": "故事2",
+				"chapterid": "story2"					
+			}
+		},
+	   "story2_3" : {
+			"name" : "故事2 p3",
+			"file" : "story2_3.html",
+			"id": "story2_3",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story2 p3",
+				"chapter": "故事2",
+				"chapterid": "story2"					
+			}
+		},
+	   "story2_4" : {
+			"name" : "故事2 p4",
+			"file" : "story2_4.html",
+			"id": "story2_4",
+			"slideIndex":"21",
+			"monitoring": {
+			    "id":"story2 p4",
+				"chapter": "故事2",
+				"chapterid": "story2"					
+			}
+		},
+
+      "story3" : {
+			"name" : "故事3 p1",
+			"file" : "story3.html",
+			"id": "story3",
+			"slideIndex":"22",
+			"monitoring": {
+			    "id":"story3 p1",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story3_1" : {
+			"name" : "故事3 p2",
+			"file" : "story3_1",
+			"id": "story3_1",
+			"slideIndex":"23",
+			"monitoring": {
+			    "id":"story3 p2",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story3_2" : {
+			"name" : "故事3 p3",
+			"file" : "story3_2",
+			"id": "story3_2",
+			"slideIndex":"24",
+			"monitoring": {
+			    "id":"story3 p3",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story3_3" : {
+			"name" : "故事3 p4",
+			"file" : "story3_3",
+			"id": "story3_3",
+			"slideIndex":"25",
+			"monitoring": {
+			    "id":"story3 p4",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story3_4" : {
+			"name" : "故事3 p5",
+			"file" : "story3_4",
+			"id": "story3_4",
+			"slideIndex":"26",
+			"monitoring": {
+			    "id":"story3 p5",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story3_5" : {
+			"name" : "故事3 p6",
+			"file" : "story3_5",
+			"id": "story3_5",
+			"slideIndex":"27",
+			"monitoring": {
+			    "id":"story3 p6",
+				"chapter": "故事3",
+				"chapterid": "story3"					
+			}
+		},
+      "story4_1" : {
+			"name" : "故事4 p1",
+			"file" : "story4_1",
+			"id": "story4_1",
+			"slideIndex":"28",
+			"monitoring": {
+			    "id":"story4 p1",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		},
+      "story4_2" : {
+			"name" : "故事4 p2",
+			"file" : "story4_2",
+			"id": "story4_2",
+			"slideIndex":"29",
+			"monitoring": {
+			    "id":"story4 p2",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		},
+      "story4_3" : {
+			"name" : "故事4 p3",
+			"file" : "story4_3",
+			"id": "story4_3",
+			"slideIndex":"30",
+			"monitoring": {
+			    "id":"story4 p3",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		},
+      "story4_4" : {
+			"name" : "故事4 p4",
+			"file" : "story4_4",
+			"id": "story4_4",
+			"slideIndex":"31",
+			"monitoring": {
+			    "id":"story4 p4",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		},
+      "story4_5" : {
+			"name" : "故事4 p5",
+			"file" : "story4_5",
+			"id": "story4_5",
+			"slideIndex":"32",
+			"monitoring": {
+			    "id":"story4 p5",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		},
+      "story4_6" : {
+			"name" : "故事4 p6",
+			"file" : "story4_6",
+			"id": "story4_6",
+			"slideIndex":"33",
+			"monitoring": {
+			    "id":"story4 p6",
+				"chapter": "故事4",
+				"chapterid": "story4"					
+			}
+		}
+	},
+	"structures":{
+		"builder":{
+			"name":"BUILDER",
+			"type":"slideshow",
+			"content":["start_index", "showplaylist", "builder"]
+		},
+		"intro":{
+			"name":"Splash-page",
+			"type":"slideshow",
+			"content":["home"]
+		},
+		"play":{
+			"name":"ACS",
+			"type":"collection",
+			"content":["predefined","home", "seek" , "story" ]
+		},
+		"da1":{
+			"name":"DA 1",
+			"id":"da1",
+			"type":"collection",
+			"custom":"da",
+			"content":["references", "predefined", "home", "doctor_feedback"]
+		},
+		"da2":{
+			"name":"DA 2",
+			"id":"da2",
+			"type":"collection",
+			"custom":"da",
+			"content":["references", "predefined", "home", "doctor_feedback"]
+		},
+		"scenario1":{
+			"name":"Scenario 1",
+			"id":"scenario1",
+			"type":"collection",
+			"custom":"scenario",
+			"content":["references", "predefined", "home", "doctor_feedback"]
+		},
+		"scenario2":{
+			"name":"Scenario 2",
+			"id":"scenario2",
+			"type":"collection",
+			"custom":"scenario",
+			"content":["references", "predefined", "home", "doctor_feedback"]
+		},
+		"start":{
+			"name":"Splash-page",
+			"type":"collection",
+			"content":["intro"]
+		},
+		"buildchapters":{
+			"name":"ACS presentation",
+			"type":"collection",
+			"content":[ "doctor_feedback"]
+		},
+		"defaultbuildchapters":{
+			"name":"ACS presentation",
+			"type":"collection",
+			"content":["predefined", "home"]
+		},
+		"home":{
+			"name":"Indication Landing",
+			"type":"slideshow",
+			"role":"home",
+			"content":["home"]
+		},
+		"services":{
+			"name":"Services",
+			"type":"slideshow",
+			"content":["shopping_cart"]
+		},
+		"references":{
+			"name":"参考文献",
+			"type":"slideshow",
+			"content":["references_references"]
+		},
+		"predefined":{
+			"name":"导航",
+			"type":"slideshow",
+			"content":["predefined"]
+		},
+		"story":{
+			"name":"自由选择信心拜访",
+			"type":"slideshow",
+			"content":["storytree1","storytree2","storytree3"]
+		},
+		"starters":{
+			"name":"Conversation Starter",
+			"type":"slideshow",
+			"content":["starters_home"]
+		},
+		"doctor_feedback":{
+			"name":"医生反馈",
+			"type":"slideshow",
+			"content":["doctor_survey","doctor_detailer_helpfull"]
+		},
+		"tools":{
+			"name":"工具",
+			"type":"slideshow",
+			"content":["start_tools","cost_comparison","self_pay_cost","asqare_game","short_video"]
+		},
+		"seek":{
+			"name":"探寻需求 定制拜访",
+			"type":"slideshow",
+			"content":["step1", "step2", "step3", "step4" ,"step5" ,"step6" ,"step7","step8" ,"step9" ,"step10" ,"step11" ,"step12"
+			,"step13" ,"step14" ,"step15" ,"step16" ,"step17" ,"step18" ,"step19" 
+			,"story1_1" ,"story1_2" ,"story1_3" ,"story1_4"
+			,"story2_1" ,"story2_2" ,"story2_3" ,"story2_4" 
+			,"story3" ,"story3_1" ,"story3_2" ,"story3_3" ,"story3_4" ,"story3_5" 
+			,"story4_1" ,"story4_2" ,"story4_3" ,"story4_4" ,"story4_5" ,"story4_6"
+			,"story5_home1","story5_home","story5_opt1_1","story5_opt1_2","story5_opt1_3","story5_opt2_1","story5_opt2_2"
+			,"story6_home1","story6_home","story6_opt1_1","story6_opt1_2","story6_opt1_3","story6_opt2_1","story6_opt3_1","story6_opt3_2"
+			,"story7_home1","story7_home","story7_opt1_1"
+			,"story8_home1","story8_home","story8_opt1_1","story8_opt1_2","story8_opt2_1","story8_opt2_2","story8_opt2_3","story8_opt2_4","story8_opt2_5","story8_opt2_6","story8_opt3_1"
+			,"story9_home1","story9_home","story9_opt1_1","story9_opt1_2","story9_opt1_3","story9_opt1_4"
+			,"story10_home1","story10_home","story10_opt1_1"
+			]
+		},
+		"story1":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_1"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story2":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_2"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story3":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_3"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story4":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_4"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story500":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_5"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story66":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_6"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story77":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_7"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story80":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_8"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story90":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_9"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"story100":{
+			"content":["predefined","home", "seek" , "story","DA_SJK_List_10"],
+			"name":"",
+			"type":"collection",
+			"valid":true
+		},
+		"DA_SJK_List_1":{
+			"content":[
+				"story1_1",
+				"story1_2",
+				"story1_3",
+				"story1_4"
+				],
+			"name":"故事1",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_2":{
+			"content":[
+				"story2_1" ,"story2_2" ,"story2_3" ,"story2_4" 
+				],
+			"name":"故事2",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_3":{
+			"content":[
+				"story3" ,"story3_1" ,"story3_2" ,"story3_3" ,"story3_4" ,"story3_5" 
+				],
+			"name":"故事3",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_4":{
+			"content":[
+				"story4_1" ,"story4_2" ,"story4_3" ,"story4_4" ,"story4_5" ,"story4_6"
+				],
+			"name":"故事4",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_5":{
+			"content":[
+				"story5_home1","story5_home","story5_opt1_1","story5_opt1_2","story5_opt1_3","story5_opt2_1","story5_opt2_2"
+				],
+			"name":"故事5",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_6":{
+			"content":[
+				"story6_home1","story6_home","story6_opt1_1","story6_opt1_2","story6_opt1_3","story6_opt2_1","story6_opt3_1","story6_opt3_2"
+				],
+			"name":"故事6",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_7":{
+			"content":[
+				"story7_home1","story7_home","story7_opt1_1"
+				],
+			"name":"故事7",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_8":{
+			"content":[
+				"story8_home1","story8_home","story8_opt1_1","story8_opt1_2","story8_opt2_1","story8_opt2_2","story8_opt2_3","story8_opt2_4","story8_opt2_5","story8_opt2_6","story8_opt3_1"
+				],
+			"name":"故事8",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_9":{
+			"content":[
+				"story9_home1","story9_home","story9_opt1_1","story9_opt1_2","story9_opt1_3","story9_opt1_4"
+				],
+			"name":"故事9",
+			"type":"slideshow",
+			"valid":true
+		},
+		"DA_SJK_List_10":{
+			"content":[
+				"story10_home1","story10_home","story10_opt1_1"
+				],
+			"name":"故事10",
+			"type":"slideshow",
+			"valid":true
+		}
+	},
+	"embedded":{
+	}
+}

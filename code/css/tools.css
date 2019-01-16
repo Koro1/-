@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*患者年度治疗自费费用*/
+#cost_comparison .cost_content{ width:865px; margin:0 auto; position:relative; margin-top:50px;}
+#cost_comparison .left_part{position:absolute; top:0; left:0; color:#58b530;}
+#cost_comparison .left_part p{ font-size:25px; color:#58b530; line-height:35px; text-align:center; margin-bottom:10px;}
+#cost_comparison .table{ width:380px;}
+#cost_comparison .th{ background-color:#fafafa; height:22px; font-size:15px; line-height:22px; font-style:italic;}
+#cost_comparison .th label{ height:22px; float:left;}
+#cost_comparison .th1{ width:205px;}
+#cost_comparison .th2, .td2{ width:70px; text-align:center;}
+#cost_comparison .th3, .td3{ width:105px; text-align:center;}
+#cost_comparison .td{ height:33px; font-size:18px; line-height:33px; margin-top:10px;}
+#cost_comparison .td label{ height:33px; float:left;}
+#cost_comparison .td1{ width:197px; padding-left:8px;}
+#cost_comparison .td input{ background:url(../../content/img/tools/input1.jpg) no-repeat scroll; width:104px; height:33px; margin:0 auto; background-size:100% 100%; -webkit-border-radius:0; border:medium none;}
+#cost_comparison .td input:focus{ outline:none;}
+#cost_comparison .btn{ width:380px; height:38px; margin-top:10px;}
+#cost_comparison .btn button{ background:url(../../content/img/tools/btn.jpg) no-repeat scroll; width:380px; height:38px; font-size:20px; line-height:38px; color:#fff; font-weight:bold; background-size:100% 100%;}
+#cost_comparison .td input.green{ background:url(../../content/img/tools/input2.jpg) no-repeat scroll;}
+#cost_comparison .center_part{ background:url(../../content/img/tools/center.jpg) no-repeat; width:3px; height:495px; background-size:100% 100%; position:absolute; left:435px; top:0;}
+#cost_comparison .right_part{position:absolute; top:0; left:481px; color:#008cd7;}
+#cost_comparison .right_part p{ font-size:25px; color:#008cd7; line-height:35px; text-align:center; margin-bottom:10px;}
+
+/*两种治疗费用对比*/
+#self_pay_cost .cost_content{ width:865px; margin:0 auto; position:relative; margin-top:50px;}
+#self_pay_cost .left_part{position:absolute; top:0; left:0; color:#58b530;}
+#self_pay_cost .left_part p{ font-size:25px; color:#58b530; line-height:35px; text-align:center; margin-bottom:10px;}
+#self_pay_cost .table{ width:380px;}
+#self_pay_cost .th{ background-color:#fafafa; height:22px; font-size:15px; line-height:22px; font-style:italic;}
+#self_pay_cost .th label{ height:22px; float:left;}
+#self_pay_cost .th1{ width:205px;}
+#self_pay_cost .th2, .td2{ width:70px; text-align:center;}
+#self_pay_cost .th3, .td3{ width:105px; text-align:center;}
+#self_pay_cost .td{ height:33px; font-size:18px; line-height:33px; margin-top:10px;}
+#self_pay_cost .td label{ height:33px; float:left;}
+#self_pay_cost .td1{ width:197px; padding-left:8px;}
+#self_pay_cost .td input{ background:url(../../content/img/tools/input1.jpg) no-repeat scroll; width:104px; height:33px; margin:0 auto; background-size:100% 100%; -webkit-border-radius:0; border:medium none;}
+#self_pay_cost .td input:focus{ outline:none;}
+#self_pay_cost .btn{ width:380px; height:38px; margin-top:10px;}
+#self_pay_cost .btn button{ background:url(../../content/img/tools/btn.jpg) no-repeat scroll; width:380px; height:38px; font-size:20px; line-height:38px; color:#fff; font-weight:bold; background-size:100% 100%;}
+#self_pay_cost .td input.green{ background:url(../../content/img/tools/input2.jpg) no-repeat scroll;}
+#self_pay_cost .center_part{ background:url(../../content/img/tools/center.jpg) no-repeat; width:3px; height:400px; background-size:100% 100%; position:absolute; left:435px; top:0;}
+#self_pay_cost .right_part{position:absolute; top:0; left:481px; color:#008cd7;}
+#self_pay_cost .right_part p{ font-size:25px; color:#008cd7; line-height:35px; text-align:center; margin-bottom:10px;}
+#self_pay_cost .right_part .btn{ margin-top:53px;}
+
+/*拜科奇趣味连连看*/
+#asqare_game .game_content{ width:860px; height:450px; margin:0 auto; margin-top:50px; position:relative;}
+#asqare_game .left_part{ width:650px; position:absolute; top:0; left:0;}
+#asqare_game .one_left{ background:url(../../content/img/tools/llk_l_03.jpg) no-repeat scroll; width:609px; height:71px; background-size:100% 100%; font-size:24px; line-height:71px; color:#fff; padding:0 20px; margin-bottom:4px;}
+#asqare_game .one_left label{ width:80px; color:#0053a1; text-align:center; display:inline-block;}
+#asqare_game .right_part{ width:118px; position:absolute; top:0; right:0;}
+#asqare_game .one_right{ background:url(../../content/img/tools/llk_l_06.jpg) no-repeat scroll; width:118px; height:63px; background-size:100% 100%; margin-bottom:12px;}
+#asqare_game .one_right span{ width:30px; height:30px; background-size:100% 100%; display:inline-block; margin-top:16px; margin-left:44px;}
+#asqare_game .right_icon{ background:url(../../content/img/tools/icon_r.jpg) no-repeat;}
+#asqare_game .wrong_icon{ background:url(../../content/img/tools/icon_w.jpg) no-repeat;}
+#asqare_game .num{ width:118px; height:63px; font-size:24px; line-height:63px; text-align:center; position:absolute; right:0;}
+#asqare_game .num1{ top:0;}
+#asqare_game .num2{ top:75px;}
+#asqare_game .num3{ top:150px;}
+#asqare_game .num4{ top:225px;}
+#asqare_game .num5{ top:300px;}
+#asqare_game .num6{ top:375px;}
+
+
+
+
+

@@ -1,0 +1,37 @@
+﻿<article id="builder" class="slide bgbody" data-ag-name="">
+	<nav>
+		<button class="home" data-ag-editable="Home">返回</button>
+		<button class="addslides" data-ag-editable="Add slides">添加</button>
+		<button class="save" data-ag-editable="Save">保存</button>
+		<button class="play" data-ag-editable="Play">播放</button>
+	</nav>
+	<div class="agendatitle">
+		<h1 data-ag-editable="header">创建新的多媒体报告</h1>
+	</div>
+	<div class="container">
+		<div class="agendascroller scroller">
+			<div id="slidethumbs1" class="slidethumbs"></div>
+			<div id="chapters" class="chapters unsorted"></div>
+		</div>
+	</div>
+	<div class="savewindow window">
+		<div class="dialog">
+			<h1 data-ag-editable="name">名称:</h1><input type="text" value="" class="title" name="title" maxlength="35"/>
+			<div class="link"></div>
+			<div class="button save saveall" data-ag-editable="save">保存</div>
+			<div class="button cancel cancelsave" data-ag-editable="cancel">取消</div>
+		</div>
+	</div>
+	<div class="savewindow overwrite-window window">
+		<div class="dialog">
+			<h1 class="savetitle" data-ag-editable="save title">名称已存在，是否覆盖它?</h1>
+			<div class="button yes overwrite" data-ag-editable="yes">是</div>
+			<div class="button no cancelsave" data-ag-editable="noe">否</div>
+		</div>
+	</div>
+
+	<div class="errorwindow">
+		<div class="errordialog dialog">
+		</div>
+	</div>
+</article>
